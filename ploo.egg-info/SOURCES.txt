@@ -1,0 +1,6 @@
+README.md
+setup.py
+ploo.egg-info/PKG-INFO
+ploo.egg-info/SOURCES.txt
+ploo.egg-info/dependency_links.txt
+ploo.egg-info/top_level.txt
